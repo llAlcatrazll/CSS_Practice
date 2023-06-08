@@ -1,0 +1,31 @@
+*{
+    padding-left: 3%;
+    padding-top: 1%;
+}
+body{
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: papayawhip;
+    color: #663399;
+}
+header{
+  width: 80%;
+}
+main{
+    font-size: 1.5rem;
+    width: 50vw;
+    background-color: skyblue;
+}
+
+h1{
+    border: 2px dashed red;
+    width: 80%;
+    font-size: 3rem;
+    padding: 0.5em;
+}
+p{
+    font-size: 1.5rem;
+    color: #73489e;
+    width: 40ch;
+}
